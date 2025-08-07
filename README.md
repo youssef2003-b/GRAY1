@@ -7,5 +7,3 @@ This app allows users to access and watch Quran videos, focused purely on spirit
 📌 No music  
 📌 Clean interface  
 📌 100% Quran content only
-
-tiktok-developers-site-verification=wkzqhcHvoeXP3cnthCEpBoUVvqXEJfpD
